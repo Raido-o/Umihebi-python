@@ -1,0 +1,9 @@
+<svg width="200" height="200" version="1.1" baseProfile="full"
+    viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+    <rect x="30" width="170" height="200" fill="#a08aff" />
+    <rect width="40" height="20" fill="#a08aff" />
+    <rect y="180" width="40" height="20" fill="#a08aff" />
+
+    <!--目-->
+    <circle cx="60" cy="40" r="20" fill="#fff" />
+</svg>

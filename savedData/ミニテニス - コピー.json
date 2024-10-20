@@ -1,0 +1,44 @@
+{
+  "version": 0,
+  "window": {
+    "code": [
+      "\u30d7\u30ed\u30b0\u30e9\u30e0\u304c\u59cb\u307e\u3063\u305f\u3089",
+      "\u30a6\u30a3\u30f3\u30c9\u30a6\u306e\u5e45\u3092[1000]px\u306b\u3001\u9ad8\u3055\u3092[600]px\u306b\u3059\u308b",
+      "\u30a6\u30a3\u30f3\u30c9\u30a6\u306e\u80cc\u666f\u8272\u3092[#000]\u306b\u3059\u308b"
+    ]
+  },
+  "objects": [
+    {
+      "code": [
+        "\u30d7\u30ed\u30b0\u30e9\u30e0\u304c\u59cb\u307e\u3063\u305f\u3089",
+        "x\u5ea7\u6a19\u3092[10]\u306b\u3001y\u5ea7\u6a19\u3092[200]\u306b\u3059\u308b",
+        "(\u4e0a|\u4e0b|*w|s)\u30ad\u30fc\u304c\u62bc\u3055\u308c\u305f\u3068\u304d",
+        "\u4e0a\u306b[10]px\u52d5\u304f",
+        "(\u4e0a|\u4e0b|w|*s)\u30ad\u30fc\u304c\u62bc\u3055\u308c\u305f\u3068\u304d",
+        "\u4e0b\u306b[10]px\u52d5\u304f"
+      ],
+      "name": "\u5de6\u30d7\u30ec\u30a4\u30e4\u30fc",
+      "imagePath": "C:/Users/PKB98/Desktop/Umihebi/temp/miniTennis/bar.png"
+    },
+    {
+      "code": [
+        "\u30d7\u30ed\u30b0\u30e9\u30e0\u304c\u59cb\u307e\u3063\u305f\u3089",
+        "x\u5ea7\u6a19\u3092[960]\u306b\u3001y\u5ea7\u6a19\u3092[200]\u306b\u3059\u308b",
+        "(*\u4e0a|\u4e0b|w|s)\u30ad\u30fc\u304c\u62bc\u3055\u308c\u305f\u3068\u304d",
+        "\u4e0a\u306b[10]px\u52d5\u304f",
+        "(\u4e0a|*\u4e0b|w|s)\u30ad\u30fc\u304c\u62bc\u3055\u308c\u305f\u3068\u304d",
+        "\u4e0b\u306b[10]px\u52d5\u304f"
+      ],
+      "name": "\u53f3\u30d7\u30ec\u30a4\u30e4\u30fc",
+      "imagePath": "C:/Users/PKB98/Desktop/Umihebi/temp/miniTennis/bar.png"
+    },
+    {
+      "code": [
+        "\u30d7\u30ed\u30b0\u30e9\u30e0\u304c\u59cb\u307e\u3063\u305f\u3089",
+        "x\u5ea7\u6a19\u3092[60]\u306b\u3001y\u5ea7\u6a19\u3092[290]\u306b\u3059\u308b"
+      ],
+      "name": "\u30dc\u30fc\u30eb",
+      "imagePath": "C:/Users/PKB98/Desktop/Umihebi/temp/miniTennis/ball.png"
+    }
+  ]
+}
